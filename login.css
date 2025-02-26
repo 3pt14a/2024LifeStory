@@ -64,6 +64,9 @@ footer {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
+
+    border: 10px solid transparent;
+    border-image: url('images/IMG_3895.jpeg') 30 round;
 }
 
 .left-section {
